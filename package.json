@@ -1,0 +1,16 @@
+{
+  "name": "ecmascript6",
+  "version": "1.0.0",
+  "description": "Estamos probando ecmaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "ecmaScript",
+    "modulos"
+  ],
+  "author": "Jose Pedro <josepedrogr.99@gmail.com>",
+  "license": "MIT"
+}
