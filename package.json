@@ -12,5 +12,6 @@
     "modulos"
   ],
   "author": "Jose Pedro <josepedrogr.99@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
